@@ -102,7 +102,7 @@ The table below summarizes the performance of each classifier on the test data:
 3. Run the notebook:
 
 ```bash
-jupyter notebook Arrhythmia_Beat_Classifier.ipynb
+jupyter notebook Arrhythmia_Beat_Classification.ipynb
 ```
 
 
