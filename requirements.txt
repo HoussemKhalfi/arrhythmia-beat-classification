@@ -1,0 +1,10 @@
+ipython==8.4.0
+matplotlib==3.5.2
+matplotlib-inline==0.1.6
+numpy==1.22.3
+pandas==1.4.4
+pathlib==1.0.1
+PyWavelets==1.3.0
+scikit-learn==1.1.1
+scipy==1.9.1
+wfdb==4.1.0
